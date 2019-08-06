@@ -1,3 +1,5 @@
+# Rename this to code.py and copy to the CircuitPython drive
+
 import time
 from adafruit_circuitplayground.express import cpx
 
